@@ -5,3 +5,4 @@ dependencies:
   - pandas
   - matplotlib
   - scipy
+  - openpyxl
