@@ -6,3 +6,5 @@ dependencies:
   - matplotlib
   - scipy
   - openpyxl
+  - emcee
+  - corner
