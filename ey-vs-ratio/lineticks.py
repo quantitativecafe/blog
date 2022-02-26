@@ -87,7 +87,7 @@ class LineTicks:
             if self.label:
                 z3 = ax.transData.inverted().transform(np.array([x[i]+tx*3, y[i]+ty*3]).T)
                 this_ticklabel = ax.text(z3[0], z3[1], self.label[j],
-                        ha='center', va='center', clip_on=True)
+                        ha='center', va='center', clip_on=True, color=self.tick_styles['color'])
                 self.tick_labels.append(this_ticklabel)
 
     def on_change_lims(self, ax):
