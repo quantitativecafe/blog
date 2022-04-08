@@ -7,6 +7,8 @@ static int cur_pos;
 
 static unsigned long ms_zero, ms_print, ms_start_flow;
 static unsigned long ms_trans, ms_max;
+
+static float tau;
       
 static enum {
   STATE_IDLE,
@@ -64,8 +66,19 @@ void handle_command(char *str) {
     // Start manual triggering
     state = STATE_MANUAL;
   } else if (!strncmp(tokens[0], "e", 1)) {
+    // Save time constant
+    if (n > 1) {
+      tau = atof(tokens[1]);
+    } else {
+      tau = 15000;
+    }
+
     // Save maximum sample time
-    ms_max = 3000;
+    if (n > 2) {
+      ms_max = atol(tokens[2]);
+    } else {
+      ms_max = -1;
+    }
 
     // Start in inactive mode
     is_running = is_flowing = false;
@@ -255,7 +268,6 @@ void loop() {
     unsigned long ms = millis();
 
     const long N = 20;
-    const float tau = 15000;
   
     int next_pos = N - (int) ceil(N * exp(-(float) (ms - ms_start_flow) / tau));
     if (next_pos > cur_pos) {
