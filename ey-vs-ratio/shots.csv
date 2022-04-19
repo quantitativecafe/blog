@@ -1,117 +1,177 @@
-﻿id,config_id,weight_in_basket,split_weight,split_brix,notes
+id,config_id,weight_in_basket,split_weight,split_brix,notes
 1,1,18.11,6.64,29.1,
 2,1,18.06,6.96,27.2,
 3,1,18.02,13.39,18.3,Small sinkhole near front of basket
 4,1,18.03,15.25,19.8,
-5,1,18.09,20.32,17,
+5,1,18.09,20.32,17.0,
 6,1,17.99,21.01,16.1,Possible short time due to low water?
-7,1,18.03,19.6,16.6,
+7,1,18.03,19.60,16.6,
 8,1,18.06,12.95,19.6,
 9,1,17.96,24.05,14.9,
-10,1,18,23.91,15.3,
+10,1,18.00,23.91,15.3,
 11,1,18.05,27.54,13.3,
-12,1,18.07,28.6,13.4,
+12,1,18.07,28.60,13.4,
 13,1,18.07,33.72,11.8,
-14,1,18,34.75,11.1,
+14,1,18.00,34.75,11.1,
 15,1,18.01,42.04,10.1,Let the shot run to completion
-18,2,17.87,40.21,9.8,
-19,2,17.88,41.22,9.9,
-20,2,17.88,24.43,14.6,Great looking shot
-21,2,18.23,24.36,14.7,
-22,3,18.16,41.44,12.2,Trying paper filter under puck; changed basket; no depth
-23,2,17.99,13.33,19,
-24,3,18.09,40.69,12,"Extraction looked a bit uneven, but cleaned up toward end"
-25,2,17.9,12.59,20.5,
-26,3,18.22,40.78,12.8,
-27,3,17.98,22.98,15.9,Extraction started near edge and stayed on one edge for a long time
-28,3,18,23.82,18.2,Much more even extraction
-29,3,18.25,11.97,21.1,
-30,3,18.03,11.91,24.3,
-31,3,18.1,23.13,17.2,
-32,3,18.04,40.89,12.3,Great looking extraction
-33,3,17.88,41.72,12.1,Slightly less even extraction
-34,4,18.06,41.25,11,
-35,4,18.01,41.87,10.3,
-36,4,18.03,19.94,17,
-37,4,18.23,22.37,17.1,Great looking extractions
-38,4,17.99,12.09,23.3,
-39,4,18.06,16.85,20,
-40,4,18.19,13.67,23.6,
-41,4,18.01,30.62,13.6,
-43,4,18.16,7.26,28,Diluted 0.82 g sample to 1.65 g; measured 13.9% Brix
-44,4,18.07,7.69,26.8,
-45,4,18.03,32.37,12.7,
-46,5,17.9,41.59,10,Some signs of channelling
-47,5,18.15,15.68,19.1,Better looking shot
-48,5,18.02,41.73,10.3,
-49,5,18.01,18.21,19,Great looking shots today
-51,6,17.99,40.64,11.2,
-52,6,18.06,40.62,10.8,
-53,6,18.11,16.96,20.1,
-54,6,18.02,16.43,19.7,
-55,6,18.11,30.5,14,
-56,6,18.07,29.58,14.2,
-57,7,18.01,39.9,11.2,
-58,7,18.1,41.24,10.9,
-59,7,17.95,18.54,18.1,Some signs of channelling
-60,7,18.06,17.94,19.1,
-61,7,18.07,11.38,25.2,Shots are slow today; no changes since yesterday[1]
-62,7,18.06,10.06,26.2,Refilled tank after this shot
-63,7,18.07,41.39,10.7,
-64,7,18.18,39.86,10.3,
-65,7,18.14,9.97,25.9,
-66,7,18.11,9.63,25.9,
-67,8,18.01,41.61,11,
-68,8,18.09,40.87,11.2,
-69,8,18.07,41.23,10.8,
-70,9,18.05,41.29,11.4,
-71,9,18.06,41.09,11.6,Refilled tank after this shot
-72,8,18.08,18.1,18.5,
-73,8,18.05,16.82,20.1,
-74,9,18.04,16.2,20.5,
-75,9,18.01,16.81,20,
-76,8,18.1,10.35,25.1,Really slow shot; big OPV noise
-77,8,17.89,10.68,26.1,Much better; no OPV noise
-78,9,18.23,9.86,24,Again a big noise from the OPV
-79,9,18.18,10.55,25.2,Much shorter noise from OPV; refilled tank after this shot
-80,8,18.08,17.08,20,Again the first shot of the day is short
-81,8,18.06,10.51,25.1,
-82,8,18.09,16.41,21,Used blind basket before this shot
-83,9,18.13,11.54,23.9,Both shots a bit short this morning
-84,10,17.91,45.23,10,
-85,10,18.11,44.33,10.3,Used blind basket before this shot
-86,10,18.01,44.23,10.4,
-87,10,18.11,20.64,18.3,Used blind basket before this shot
-88,10,18.04,20.06,17.9,
-89,10,18.21,11.14,25.7,Used blind basket before this shot
-90,10,18.2,10.36,26.9,
-91,10,18.07,14.9,22.3,Used blind basket before this shot
-92,10,18.12,15.31,20.9,Refilled tank after this shot
-93,10,18.09,25.33,15.9,Used blind basket before this shot
-94,10,18.06,25.66,15.8,Refilled tank after this shot
-95,10,18.11,30.14,14,Used blind basket before this shot
-96,10,18.26,30.59,13.9,
-97,10,18.15,35.42,12.7,Used blind basket before this shot
-98,10,18.17,35.56,12.4,
-99,11,18.15,44.02,11,Used blind basket before this shot
-100,11,18.03,43.33,11.1,
-101,12,18.07,32.8,14.9,Used blind basket before this shot
-102,12,18.06,32.55,15.2,
-103,11,18.17,20.67,19.3,Blind basket for first shot from here
-104,11,18.01,19.78,19.3,
-105,12,18.17,20.64,21.1,
-106,12,18.06,20.88,20.4,
-107,11,18.05,11.61,28,Used blind basket before this shot
-108,11,18.07,11.29,25.2,Refilled tank after this shot
-109,12,18.18,15.5,23.3,Used blind basket before this shot
-110,12,18.18,14.79,22.9,
-111,11,18.23,16.47,22.4,Used blind basket before this shot
-112,11,18.08,17.26,22.2,
-113,12,18.08,10.3,26,Used blind basket before this shot
-114,12,18.15,10.38,25.9,
-115,12,18.38,45.37,11.4,Used blind basket before this shot
-116,12,18.28,45.13,11.2,Lots of change in flow rate
-117,11,17.91,30.35,15.1,Used blind basket before this shot
-118,11,18.02,30.66,15,
-119,11,18.14,11.41,26.9,Used blind basket before this shot
-120,11,18.17,10.15,28.9,
+16,2,17.87,40.21,9.8,
+17,2,17.88,41.22,9.9,
+18,2,17.88,24.43,14.6,Great looking shot
+19,2,18.23,24.36,14.7,
+20,3,18.16,41.44,12.2,Trying paper filter under puck; changed basket; no depth
+21,2,17.99,13.33,19.0,
+22,3,18.09,40.69,12.0,"Extraction looked a bit uneven, but cleaned up toward end"
+23,2,17.90,12.59,20.5,
+24,3,18.22,40.78,12.8,
+25,3,17.98,22.98,15.9,Extraction started near edge and stayed on one edge for a long time
+26,3,18.00,23.82,18.2,Much more even extraction
+27,3,18.25,11.97,21.1,
+28,3,18.03,11.91,24.3,
+29,3,18.10,23.13,17.2,
+30,3,18.04,40.89,12.3,Great looking extraction
+31,3,17.88,41.72,12.1,Slightly less even extraction
+32,4,18.06,41.25,11.0,
+33,4,18.01,41.87,10.3,
+34,4,18.03,19.94,17.0,
+35,4,18.23,22.37,17.1,Great looking extractions
+36,4,17.99,12.09,23.3,
+37,4,18.06,16.85,20.0,
+38,4,18.19,13.67,23.6,
+39,4,18.01,30.62,13.6,
+40,4,18.16,7.26,28.0,Diluted 0.82 g sample to 1.65 g; measured 13.9% Brix
+41,4,18.07,7.69,26.8,
+42,4,18.03,32.37,12.7,
+43,5,17.90,41.59,10.0,Some signs of channelling
+44,5,18.15,15.68,19.1,Better looking shot
+45,5,18.02,41.73,10.3,
+46,5,18.01,18.21,19.0,Great looking shots today
+47,6,17.99,40.64,11.2,
+48,6,18.06,40.62,10.8,
+49,6,18.11,16.96,20.1,
+50,6,18.02,16.43,19.7,
+51,6,18.11,30.50,14.0,
+52,6,18.07,29.58,14.2,
+53,7,18.01,39.90,11.2,
+54,7,18.10,41.24,10.9,
+55,7,17.95,18.54,18.1,Some signs of channelling
+56,7,18.06,17.94,19.1,
+57,7,18.07,11.38,25.2,Shots are slow today; no changes since yesterday
+58,7,18.06,10.06,26.2,Refilled tank after this shot
+59,7,18.07,41.39,10.7,
+60,7,18.18,39.86,10.3,
+61,7,18.14,9.97,25.9,
+62,7,18.11,9.63,25.9,
+63,8,18.01,41.61,11.0,
+64,8,18.09,40.87,11.2,
+65,8,18.07,41.23,10.8,
+66,9,18.05,41.29,11.4,
+67,9,18.06,41.09,11.6,Refilled tank after this shot
+68,8,18.08,18.10,18.5,
+69,8,18.05,16.82,20.1,
+70,9,18.04,16.20,20.5,
+71,9,18.01,16.81,20.0,
+72,8,18.10,10.35,25.1,Really slow shot; big OPV noise
+73,8,17.89,10.68,26.1,Much better; no OPV noise
+74,9,18.23,9.86,24.0,Again a big noise from the OPV
+75,9,18.18,10.55,25.2,Much shorter noise from OPV; refilled tank after this shot
+76,8,18.08,17.08,20.0,Again the first shot of the day is short
+77,8,18.06,10.51,25.1,
+78,8,18.09,16.41,21.0,Used blind basket before this shot
+79,9,18.13,11.54,23.9,Both shots a bit short this morning
+80,10,17.91,45.23,10.0,
+81,10,18.11,44.33,10.3,Used blind basket before this shot
+82,10,18.01,44.23,10.4,
+83,10,18.11,20.64,18.3,Used blind basket before this shot
+84,10,18.04,20.06,17.9,
+85,10,18.21,11.14,25.7,Used blind basket before this shot
+86,10,18.20,10.36,26.9,
+87,10,18.07,14.90,22.3,Used blind basket before this shot
+88,10,18.12,15.31,20.9,Refilled tank after this shot
+89,10,18.09,25.33,15.9,Used blind basket before this shot
+90,10,18.06,25.66,15.8,Refilled tank after this shot
+91,10,18.11,30.14,14.0,Used blind basket before this shot
+92,10,18.26,30.59,13.9,
+93,10,18.15,35.42,12.7,Used blind basket before this shot
+94,10,18.17,35.56,12.4,
+95,11,18.15,44.02,11.0,Used blind basket before this shot
+96,11,18.03,43.33,11.1,
+97,12,18.07,32.80,14.9,Used blind basket before this shot
+98,12,18.06,32.55,15.2,
+99,11,18.17,20.67,19.3,Used blind basket before this shot
+100,11,18.01,19.78,19.3,
+101,12,18.17,20.64,21.1,Used blind basket before this shot
+102,12,18.06,20.88,20.4,
+103,11,18.05,11.61,28.0,Used blind basket before this shot
+104,11,18.07,11.29,25.2,Refilled tank after this shot
+105,12,18.18,15.50,23.3,Used blind basket before this shot
+106,12,18.18,14.79,22.9,
+107,11,18.23,16.47,22.4,Used blind basket before this shot
+108,11,18.08,17.26,22.2,
+109,12,18.08,10.30,26.0,Used blind basket before this shot
+110,12,18.15,10.38,25.9,
+111,12,18.38,45.37,11.4,Used blind basket before this shot
+112,12,18.28,45.13,11.2,Lots of change in flow rate
+113,11,17.91,30.35,15.1,Used blind basket before this shot
+114,11,18.02,30.66,15.0,
+115,11,18.14,11.41,26.9,Used blind basket before this shot
+116,11,18.17,10.15,28.9,
+117,13,18.01,44.30,10.8,Used blind basket before this shot
+118,13,18.16,44.23,10.8,Used blind basket before this shot
+119,13,18.15,43.88,10.9,
+120,13,18.12,19.94,19.1,Used blind basket before this shot; maybe WDT too close to filter?
+121,13,18.06,20.38,20.3,Still a little quick
+122,13,18.08,10.06,25.3,Used blind basket before this shot
+123,13,18.03,10.19,26.2,
+124,13,18.03,29.88,15.0,Used blind basket before this shot
+125,13,18.02,29.24,15.3,
+126,13,18.13,15.36,22.5,Used blind basket before this shot
+127,13,18.06,15.41,22.3,
+128,13,17.97,20.33,19.3,
+129,14,18.01,41.50,11.0,Used blind basket before this shot
+130,14,18.08,41.56,10.9,
+131,14,18.12,19.31,18.3,Used blind basket before this shot
+132,14,18.07,20.61,19.1,
+133,14,18.02,11.04,25.6,Used blind basket before this shot
+134,14,18.14,10.18,26.2,
+135,14,18.19,29.65,14.9,Used blind basket before this shot
+136,14,18.11,30.20,14.1,
+137,15,17.97,40.99,10.4,No blind  basket before first shot
+138,15,18.10,40.73,10.7,
+139,15,18.05,20.89,17.1,No blind  basket before first shot
+140,15,18.04,20.45,17.6,
+141,15,18.14,10.38,22.6,No blind  basket before first shot
+142,15,18.08,10.78,21.1,
+143,15,18.16,29.44,14.3,No blind  basket before first shot
+144,15,18.02,30.96,13.3,
+145,15,17.93,10.89,21.8,Used blind basket before this shot
+146,15,18.17,30.86,13.9,
+147,16,18.03,53.79,8.2,Used blind basket before this shot
+148,16,18.05,54.25,7.7,
+149,16,18.06,21.91,15.8,Used blind basket before this shot
+150,16,18.08,20.93,15.8,
+151,16,18.10,10.43,21.3,Used blind basket before this shot
+152,16,18.02,12.22,20.1,
+153,16,18.27,32.77,12.1,Used blind basket before this shot
+154,16,18.08,31.71,11.6,
+155,17,17.84,52.78,8.4,Used blind basket before this shot
+156,17,18.00,53.85,8.3,
+157,17,17.96,19.87,18.3,Used blind basket before this shot
+158,17,18.14,23.21,17.4,
+159,17,18.16,14.38,23.4,Used blind basket before this shot
+160,17,18.03,11.22,26.0,
+161,17,18.17,28.44,15.0,Used blind basket before this shot
+162,17,18.22,31.65,13.9,
+163,18,17.93,54.12,8.3,Used blind basket before this shot
+164,18,18.04,54.03,8.4,
+165,18,18.00,21.06,17.4,Used blind basket before this shot
+166,18,18.17,23.25,16.8,
+167,18,18.06,12.13,24.2,Used blind basket before this shot
+168,18,18.08,11.48,23.9,
+169,18,18.13,31.26,13.3,Used blind basket before this shot
+170,18,18.07,31.32,13.3,
+171,18,18.10,41.61,10.8,Used blind basket before this shot
+172,18,18.14,41.45,10.6,
+173,19,17.88,40.25,12.0,Used blind basket before this shot
+174,19,18.07,40.75,12.0,
+175,20,18.11,40.61,12.3,Used blind basket before this shot
+176,20,17.94,40.53,12.2,
