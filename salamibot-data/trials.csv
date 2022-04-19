@@ -1,0 +1,4 @@
+﻿id,shot_date,bag_id,grind_setting,weight_in_basket,depth_below_rim,funnel_weight_before,funnel_weight_after,description
+1,2022-04-08,28,3.00,18.07,15.84,17.30,18.11,"Rosso Decaf (6.5 bar, Whatman 5, grind 3.00, 2 tamps, 6 mm nozzle)"
+2,2022-04-17,30,3.00,18.12,14.25,17.39,18.07,"Rosso Decaf (6.5 bar, Whatman 5, grind 3.00, 2 tamps, 9 mm nozzle)"
+3,2022-04-17,30,1.50,17.78,15.28,17.39,18.06,"Rosso Decaf (6.5 bar, Whatman 5, grind 1.50, 2 tamps, 9 mm nozzle)"
