@@ -1,0 +1,5 @@
+﻿id,weight_in_basket,weight_beverage,shot_time,description
+1,18,21.3,37.52,"Rosso Two Wheel, 6.5 bar, grind 1.00, no filter"
+2,18.11,21.77,37.64,"Rosso Two Wheel, 6.5 bar, grind 1.00, Chemex filter after shot"
+3,,,,"Rosso Two Wheel, 6.5 bar, grind 1.00, no filter"
+4,,,,"Rosso Two Wheel, 6.5 bar, grind 1.00, Chemex filter after shot"
