@@ -1,0 +1,60 @@
+Part 1
+------
+
+- Wildcat Sandbagger
+- Grind 1.50, 6.5 bar
+- Whatman 5 filter
+- 20 g out in 50 seconds
+- Filter twice with Chemex
+    - Second filter much faster than first
+    - Indicates the first filter did most of the work
+- Cool in water bath
+
+- Dry sample boats at 350 F for 30 minutes
+- Cool sample boats for 10 minutes
+- Weigh empty boats
+
+- Initially flush pipette with sample solution
+- Stir throughly
+- Draw samples at intervals
+    - Samples drawn from just below surface
+    - No flushing pipette--use a single draw
+- Weigh filled sample boats
+- Dry in oven at 212 F
+
+- In oven at 1120
+- Oven off at 1900
+- Oven on at 1015
+- Oven off at 1400
+- Oven on at 0530
+
+Part 2
+------
+
+- Clean demitasse with distilled water
+- Dry with microfibre cloth
+- Add 49.63 g distilled water
+- Add 10.045 g sugar
+- Total weight 59.69 g
+- Stir with glass rod
+
+- Flush pipette with sugar solution
+- Weigh empty boats
+- Transfer 4 g solution to each boat
+- Weight of each boat kept creeping downward
+    - Not a scale issue, I think, as the 5 g calibration weight never changed
+    - Also, 0.01 g scale measured the same changes
+    - Could be evaporation
+    - 26 C room temperature; 40% relative humidity (according to Nest thermostat)
+
+Part 3
+------
+
+- Evaporation rate measurement
+- Empty weighing boat = 0.741 g; empty DiFluid = 23.33 g
+- Weighing boat diameter = 47.5 mm; DiFluid sample diameter = 8.85 mm at fluid level
+- 26 C room temperature; 40% relative humidity (according to Nest thermostat)
+- Add 3 drops of distilled water to DiFluid and about 6 g of distilled water to weighing boat
+- At 14:45, room temperature is still 26 C
+- DiFluid diameter 6 mm below chamfer
+
