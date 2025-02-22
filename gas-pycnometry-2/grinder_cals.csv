@@ -1,2 +1,5 @@
-id,grinder_id,zero_digits,um_per_digit,notes
-4,1,0.1,47.0,Re-aligned grinder; https://quantitativecafe.com/2021/12/21/specialita-mods-and-measurements/
+id,date,grinder_id,zero_digits,um_per_digit,burr_angle,notes
+4,,1,0.1,47.0,0.0,Re-aligned grinder; https://quantitativecafe.com/2021/12/21/specialita-mods-and-measurements/
+13,2024-06-23,3,-1.6,30.0,0.0,Used 5.0 in-lb torque on screws; cleaned pushing surfaces
+14,2024-08-11,3,-1.6,30.0,0.0,Used 5.0 in-lb torque on screws; cleaned and lubricated
+15,2024-11-08,4,0.3,80.0,66.0,Touch point has drifted; actual burr touch at 0.3; burr lock at -1.1; angle measured as 77 degrees from photo
